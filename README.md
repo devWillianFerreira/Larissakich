@@ -5,34 +5,12 @@
 Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+   <a href="https://www.linkedin.com/in/willianferreiragomesaguilar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/_wilferreira_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </p>
 
 ---
